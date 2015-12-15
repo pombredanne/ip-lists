@@ -5,7 +5,7 @@ Common IP lists in a format friendly to importing into Deep Security.
 ## Usage
 
 ```bash
-./get_lasted_ips_from_aws.py
+./get_latest_ips_from_aws.py
 ```
 
 This will generate a set of XML IP lists for import into Deep Security. You can import each individually or the entire set via "YYY-mmm-ddd-all-aws-public-ips.xml".
